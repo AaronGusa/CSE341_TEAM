@@ -1,0 +1,38 @@
+{
+  "name": "341lesson2",
+  "version": "1.0.0",
+  "description": "Project 1 for Aaron Gusa in CSE341",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "run": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronGusa/CSE341ag.git"
+  },
+  "author": "Aaron Gusa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronGusa/CSE341ag/issues"
+  },
+  "homepage": "https://github.com/AaronGusa/CSE341ag#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+<<<<<<< HEAD
+    "express": "^4.18.2",
+=======
+    "express": "^4.18.1",
+>>>>>>> c6b38a76b7e3f242bfa89c9a641c0825fe6646c8
+    "mongodb": "^4.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "keywords": [
+    "cse341",
+    "week2",
+    "lesson2"
+  ]
+}
