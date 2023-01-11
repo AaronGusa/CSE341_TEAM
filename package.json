@@ -20,11 +20,7 @@
   "homepage": "https://github.com/AaronGusa/CSE341ag#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
-<<<<<<< HEAD
     "express": "^4.18.2",
-=======
-    "express": "^4.18.1",
->>>>>>> c6b38a76b7e3f242bfa89c9a641c0825fe6646c8
     "mongodb": "^4.13.0"
   },
   "devDependencies": {
