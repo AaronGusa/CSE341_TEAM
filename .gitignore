@@ -1,2 +1,4 @@
 env
 .env
+mongodb.env
+node_modules
